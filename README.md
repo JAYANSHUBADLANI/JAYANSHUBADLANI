@@ -13,7 +13,8 @@ the repository says so.
 [Application scorecard](https://github.com/JAYANSHUBADLANI/application-credit-scorecard) ·
 [Behavioural scorecard](https://github.com/JAYANSHUBADLANI/behavioural-scorecard) ·
 [Model backtesting](https://github.com/JAYANSHUBADLANI/credit-model-backtesting) ·
-[Laundering ring detection](https://github.com/JAYANSHUBADLANI/laundering-ring-detection)
+[Laundering ring detection](https://github.com/JAYANSHUBADLANI/laundering-ring-detection) ·
+[Streaming GNN vs graph features](https://github.com/JAYANSHUBADLANI/laundering-ring-streaming-gnn)
 
 **Serving and data engineering**
 [Scorecard API with drift monitoring](https://github.com/JAYANSHUBADLANI/credit-scorecard-service) ·
@@ -35,6 +36,7 @@ the repository says so.
 
 **Forecasting and operations research**
 [Hierarchical forecasting on M5](https://github.com/JAYANSHUBADLANI/hierarchical-forecasting) ·
+[EV charging demand and capacity](https://github.com/JAYANSHUBADLANI/urban-ev-capacity) ·
 [Flight delay propagation](https://github.com/JAYANSHUBADLANI/flight-delay-propagation) ·
 [Airport checkpoint simulation](https://github.com/JAYANSHUBADLANI/airport-checkpoint-sim) ·
 [Supply chain inventory](https://github.com/JAYANSHUBADLANI/supply-chain-inventory)

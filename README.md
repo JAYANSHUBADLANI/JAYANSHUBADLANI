@@ -29,16 +29,18 @@ the repository says so.
 [Store cannibalisation](https://github.com/JAYANSHUBADLANI/retail-cannibalization-geo)
 
 **LLM systems, measured against baselines**
-[Grounded SQL analyst agent](https://github.com/JAYANSHUBADLANI/grounded-data-analyst-agent) ·
+[Grounded SQL analyst agent](https://github.com/JAYANSHUBADLANI/olist-analyst-agent) ·
+[PDF question answering with RAG](https://github.com/JAYANSHUBADLANI/rag-pdf-chatbot) ·
 [Rules vs LLM extraction](https://github.com/JAYANSHUBADLANI/filing-extraction-benchmark) ·
 [LoRA vs few-shot](https://github.com/JAYANSHUBADLANI/llm-finetune-filing-extraction) ·
 [RAG evaluation](https://github.com/JAYANSHUBADLANI/rag-evaluation-framework)
 
 **Forecasting and operations research**
 [Hierarchical forecasting on M5](https://github.com/JAYANSHUBADLANI/hierarchical-forecasting) ·
+[Day-ahead electricity demand forecasting](https://github.com/JAYANSHUBADLANI/energy-demand-forecasting) ·
 [EV charging demand and capacity](https://github.com/JAYANSHUBADLANI/urban-ev-capacity) ·
 [Flight delay propagation](https://github.com/JAYANSHUBADLANI/flight-delay-propagation) ·
 [Airport checkpoint simulation](https://github.com/JAYANSHUBADLANI/airport-checkpoint-sim) ·
 [Supply chain inventory](https://github.com/JAYANSHUBADLANI/supply-chain-inventory)
 
-Reach me at badlanijayanshu@gmail.com
+Reach me at jayanshu.badlani.stats@gmail.com
